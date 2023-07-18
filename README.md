@@ -1,1 +1,1 @@
-# chainlit-example
+# Example of Chainlit based Apps

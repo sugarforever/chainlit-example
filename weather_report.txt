@@ -1,8 +1,0 @@
-Weather Report for Beijing Today:
-
-- Current Conditions: Sunny
-- Temperature: 30°C
-- Wind: 10 km/h
-- Air Quality: Good
-
-Please note that this report is based on the latest available information and may be subject to change.
